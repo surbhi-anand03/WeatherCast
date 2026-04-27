@@ -1,4 +1,4 @@
-🌦️ WeatherCast: Real-Time Weather Application
+# 🌦️ WeatherCast: Real-Time Weather Application
 
 🔗 **Live Demo:** https://weathercast-se1i.onrender.com  
 
